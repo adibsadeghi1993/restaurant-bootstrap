@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+@font-face {
+    font-family:"vazir" ;
+    src: url("./fonts/Vazir-Medium.woff2");
+}
+
+.search{
+    height: 40px;
+    border-radius: 60px;
+    outline: none;
+    border: 2px solid red;
+    text-align: center;
+    margin-right: -35px;
+}
+.search_btn{
+    height: 40px;
+    border: none;
+    background-color: red;
+    color: white;
+    border-radius: 60px;
+    position: relative;
+    z-index: 2;
+}
+
+
+
+
