@@ -9,6 +9,10 @@
     src: url("./fonts/Vazir-Medium.woff2");
 }
 
+body{
+    font-family: "vazir";
+}
+
 .search{
     height: 40px;
     border-radius: 60px;
