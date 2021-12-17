@@ -30,6 +30,23 @@ body{
     position: relative;
     z-index: 2;
 }
+.card-container:hover{
+    transform:translateY(-8px) scale(1.02) ;
+    transition: 0.3 all;
+}
+
+.signup_section{
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: linear-gradient(to bottom right,rgba(0,47,75,0.5),rgba(220,66,37,0.5)),url("./assets/contact-us1.png");
+}
+
+
+
+
+
 
 
 
