@@ -72,6 +72,10 @@ body{
     transform: translateX(-50%) translateY(-50%) scale(1);
   
 }
+.product-title a{
+    text-decoration: none;
+    color: rgb(168, 142, 142);
+}
 
 
 
